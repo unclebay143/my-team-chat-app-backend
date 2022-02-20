@@ -7,4 +7,4 @@
 - Dotenv
 - Stream Chat Server SDK
 
-Read full article on Stream Chat Blog here
+Read full article on Stream Chat Blog [here](https://github.com/unclebay143/my-team-chat-app)
